@@ -1,0 +1,4 @@
+keys = dict(
+    APIKey = ***,
+    SecretKey = ***,
+)
